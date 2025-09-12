@@ -10,30 +10,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tongsangtv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongsangtv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
-  
-
-name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
-  
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
