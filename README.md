@@ -9,6 +9,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tongsangtv&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongsangtv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+name: Detailed display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: sponsor, maintainer, octonaut
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
