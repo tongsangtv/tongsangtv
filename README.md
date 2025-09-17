@@ -33,9 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tongsangtv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=tongsangtv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tongsangtv&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongsangtv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph-dark.svg">
@@ -45,7 +43,6 @@
 
 ## 🏆 GitHub Trophies
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=tongsangtv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=tongsangtv&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
