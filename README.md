@@ -10,6 +10,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tongsangtv&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tongsangtv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tongsangtv)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tongsangtv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
