@@ -53,7 +53,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🏆 GitHub Trophies
+## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=tongsangtv&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
