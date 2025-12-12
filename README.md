@@ -54,7 +54,7 @@
 </picture>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=tongsangtv&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=tongsangtv&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-frame=false&no-bg=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
