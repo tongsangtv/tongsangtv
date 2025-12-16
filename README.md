@@ -52,8 +52,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/snake.svg" alt="Snake animation" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/snake.svg" alt="Snake animation" />
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=tongsangtv&theme=discord&no-frame=false&no-bg=false&margin-w=4)
