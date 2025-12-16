@@ -54,7 +54,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=tongsangtv&theme=discord&no-frame=false&no-bg=false&margin-w=4)
