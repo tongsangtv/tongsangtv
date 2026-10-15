@@ -5,6 +5,9 @@
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TongSangTV) 
 
+<a href="https://www.github.com/tongsangtv" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tongsangtv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tongsangtv.tongsangtv&"  />
 </div>
