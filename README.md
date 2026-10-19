@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats-tstv.vercel.app/api?username=tongsangtv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  /> <br>
   <img src="https://github-readme-stats-tstv.vercel.app/api/top-langs?username=tongsangtv&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=tokyonight&hide_border=false" alt="languages graph"  /> <br>
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tongsangtv&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/tongsangtv/tongsangtv/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <picture>
